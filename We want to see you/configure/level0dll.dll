@@ -1,0 +1,4 @@
+set /p level0dll= 5667
+
+if %level0dll% == 5667
+then open "configure settings.read"

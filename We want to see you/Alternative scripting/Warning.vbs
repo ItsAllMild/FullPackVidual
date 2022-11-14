@@ -1,0 +1,1 @@
+X=MsgBox("This system has some items in order to control some of your comupter access, please exit out if you do not wish to continue, click OK if your fine with this",48+48,"Warning")
