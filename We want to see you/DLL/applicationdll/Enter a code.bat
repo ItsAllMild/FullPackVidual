@@ -209,3 +209,10 @@ echo ---------------------------------------------------
 pause
 goto helppanel
 cls
+
+
+To run file...
+1. Copy the scripts above
+2. Put into a notepad
+3. save as {notepadname}.bat
+4. run system
